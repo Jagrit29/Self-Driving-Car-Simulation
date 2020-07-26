@@ -3,8 +3,8 @@ This repository contains the completely explained code in python for Self Drivin
 
 # Output: 
 <div>
-<img src="Car1.png" alt="alt text" width="250px" height="400px"> 
-<img src="Car2.png" alt="alt text" width="250px" height="400px">
-<img src="Car3.png" alt="alt text" width="250px" height="400px">
+<img src="Car1.PNG" alt="alt text" width="250px" height="400px"> 
+<img src="Car2.PNG" alt="alt text" width="250px" height="400px">
+<img src="Car3.PNG" alt="alt text" width="250px" height="400px">
 </div>
 
